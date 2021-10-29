@@ -1,0 +1,38 @@
+.fullPage{
+position: relative;
+top: 0;
+bottom: 0;
+left: 0;
+right: 0;
+height: 100%;
+width:100%;
+background-color:#242424;
+}
+
+.header{
+  position: relative;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 20%;
+  background-color: #242424;
+}
+
+.middlecell{
+
+  background-color: #0a96ed;
+}
+
+.leftMargin{
+  position: static;
+  left: 0;
+  background-color: #242424;
+  width:10%;
+}
+
+.rightMargin{
+  position: static;
+  right: 0;
+  background-color: #242424;
+  width:10%;
+}
